@@ -1,5 +1,5 @@
 package hotel;
 
-public class Hotel {
+public class Hotel extends Recepcao {
 	private Recepcao recepcao;
 }

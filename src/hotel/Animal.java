@@ -1,7 +1,8 @@
 package hotel;
 
 /**
- * Classe responsável pela representação de um Animal.
+ * Classe responsável pela representação de um Animal, que possui nome, tipo e
+ * idade. Todo animal é criado com esses parâmetros.
  * 
  * @author Francivaldo Cabral - 116111544
  *
